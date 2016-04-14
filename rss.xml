@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[The Roastery]]></title>
+        <description><![CDATA[The Roastery]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 14 Apr 2016 18:14:56 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>THE ROASTERY is quite simply as the name implies, a coffee roastery, which will officially launch in 2016. We will be making use of the very best equipment available, such as the hand built Joper 15kg Roaster with roast profile software and the very first official WBC (World Barista Championship) coffee machine in South Africa, the Victoria Arduino VA388 Black Eagle Gravimetric. To compliment the coffee machine we will be using Mythos One Clima Pro grinders from Nuova Simonelli and the Mahlkonig EK43 made famous by Matt Perger at WBC finals in 2013. Direct to farm relationships have been established with some great coffee growers ensuring we can offer our customers something really special. 
+</p>]]></description>
+            <link>undefined3fe03923-509b-469a-925b-ce96589be1d2/index.html</link>
+            <guid isPermaLink="false">3fe03923-509b-469a-925b-ce96589be1d2</guid>
+            <pubDate>Thu, 14 Apr 2016 18:14:47 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
