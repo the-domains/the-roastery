@@ -2,17 +2,16 @@
     <channel>
         <title><![CDATA[The Roastery]]></title>
         <description><![CDATA[The Roastery]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/the-roastery/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 14 Apr 2016 18:14:56 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 14 Apr 2016 18:26:26 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/the-roastery/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>THE ROASTERY is quite simply as the name implies, a coffee roastery, which will officially launch in 2016. We will be making use of the very best equipment available, such as the hand built Joper 15kg Roaster with roast profile software and the very first official WBC (World Barista Championship) coffee machine in South Africa, the Victoria Arduino VA388 Black Eagle Gravimetric. To compliment the coffee machine we will be using Mythos One Clima Pro grinders from Nuova Simonelli and the Mahlkonig EK43 made famous by Matt Perger at WBC finals in 2013. Direct to farm relationships have been established with some great coffee growers ensuring we can offer our customers something really special. 
-</p>]]></description>
-            <link>undefined3fe03923-509b-469a-925b-ce96589be1d2/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7479c25a-7ccc-4249-b186-b8be7e8876bc.jpg">]]></description>
+            <link>https://thegrid.ai/the-roastery/3fe03923-509b-469a-925b-ce96589be1d2/index.html</link>
             <guid isPermaLink="false">3fe03923-509b-469a-925b-ce96589be1d2</guid>
-            <pubDate>Thu, 14 Apr 2016 18:14:47 GMT</pubDate>
+            <pubDate>Thu, 14 Apr 2016 18:26:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
